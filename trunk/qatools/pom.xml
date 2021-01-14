@@ -16,7 +16,7 @@
 		<apache.commons.version>2.6</apache.commons.version>
 		<selenium.version>2.33.0</selenium.version>
 		<surefire.version>2.16</surefire.version>
-		<apache.poi.version>3.7</apache.poi.version>
+		<apache.poi.version>3.17</apache.poi.version>
 		<jmockit.version>1.5</jmockit.version>
 	</properties>
 
